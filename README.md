@@ -1,3 +1,21 @@
+<h1>ENGLISH VERSION</h1>
+
+<h1>My Software Developed in Python. <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo"></h1>
+
+- "My Projects" are my personal projects created; they are my main projects.
+
+- "Curso em Vídeo Exercises," "Curso em Vídeo World 2 Exercises," and "Curso em Vídeo World 3 Exercises" are courses from Curso Em Vídeo. All the exercises he assigned are here, some with additional features beyond what he requested. World 1 focuses on Fundamentals, World 2 focuses on Conditional Structures and Loop Structures, and World 3 focuses on Data Structures (Tuples, Lists, Dictionaries), Functions, Exception Handling, and other more technical aspects of Python. Each world has 40 hours of content, and I always aimed to add more functionalities than just what the course requested for each exercise, often recreating the software 2 or more times. This resulted in over 120 hours of study in Python just from this course.
+
+- "Python Journey" was an intensive week from Hashtag Treinamentos that I attended, which included various exercises. They are stored in this directory.
+
+- "Python Notepad" is a notepad created by me to assist with my studies in Python. One detail: if you want to read the document, please avoid opening it in just any notepad, as it may look a bit strange since this document is written in Markdown. There are text formatting elements that won't be interpreted if the .md file is opened in a standard notepad. I recommend using Obsidian (the software in which I wrote this notepad) or Notion, as this issue does not occur with them.
+
+<h1>More things are coming! Thank you for reading!</h1>
+
+#
+
+<h1>VERSÃO EM PTBR</h1>
+
 <h1>Meus softwares desenvolvidos em Python. <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"></h1>
 - "Meus projetos" são meus projetos pessoais criados; são meus projetos principais.
 
