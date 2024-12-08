@@ -1,5 +1,5 @@
 # **TIPOS PRIMITIVOS DO PYTHON**
-1) **str (String)** Palavras ou conjunto de caracteres
+1) **Str (String)** Palavras ou conjunto de caracteres
 2) **Int (Inteiro)** Números inteiros
 3) **Float (Flutuantes/Real/Decimais)** Números flutuantes/Reais/Decimais. Com ponto
 4) **Bool (Lógico)** True ou False (Verdadeiro ou Falso)
