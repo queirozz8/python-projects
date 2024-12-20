@@ -1,6 +1,6 @@
 <h1>ENGLISH VERSION</h1>
 
-<h1>My Software Developed in Python. <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo"></h1>
+<h1>My Software Developed in Python. <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" height="40" alt="Python logo"></h1>
 
 - "My Projects" are my personal projects created; they are my main projects.
 
@@ -16,7 +16,7 @@
 
 <h1>VERSÃO EM PTBR</h1>
 
-<h1>Meus softwares desenvolvidos em Python. <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"></h1>
+<h1>Meus softwares desenvolvidos em Python. <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" height="40" alt="Python logo"></h1>
 - "Meus projetos" são meus projetos pessoais criados; são meus projetos principais.
 
 - "Curso em Vídeo Course World 1," "Curso em Vídeo Course World 2," and "Curso em Vídeo Course World 3" são cursos do Curso Em Vídeo. Todos os exercícios que ele passava estão aí, alguns com coisas à mais do que as que ele pediu. O
